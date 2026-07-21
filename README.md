@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Thomas 👋
 
-<!--
-**Tom-Bow/Tom-Bow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate (First-Class Honours)
+💻 Aspiring Software Developer
+📍 United Kingdom
 
-Here are some ideas to get you started:
+I'm passionate about building full-stack web applications and learning modern software development technologies. I enjoy turning ideas into practical applications and continuously improving my programming skills through personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BSc Computer Science (First-Class Honours)
+- 🌱 Currently learning Laravel, Docker, and cloud deployment
+- 💼 Looking for graduate/junior software developer opportunities
+- 💡 Interested in web development, backend systems, and software engineering
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+- Python
+- Java
+- PHP
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- Laravel
+- Livewire
+- Tailwind CSS
+- Bootstrap
+
+### Databases
+- MySQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- Linux
+
+---
+
+## 📂 Featured Projects
+
+### 📱 Social Media Platform
+A full-stack social media web application built with Laravel.
+
+**Features**
+- User authentication
+- User profiles
+- Posts
+- Comments
+- Following system
+- Responsive design
+
+**Tech Stack**
+- Laravel
+- Livewire
+- Tailwind CSS
+- MySQL
+- Docker
+
+🔗 Repository: *(Add link)*
+
+---
+
+### 🌊 Advanced Tide Times
+University dissertation project designed to help paddleboarders interpret tide and weather conditions.
+
+**Features**
+- Tide data
+- Weather information
+- Safety indicators
+- Mobile-friendly interface
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ Thanks for visiting my profile!
