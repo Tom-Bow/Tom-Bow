@@ -1,8 +1,8 @@
 # Hi, I'm Thomas 👋
 
-🎓 Computer Science Graduate (First-Class Honours)
-💻 Aspiring Software Developer
-📍 United Kingdom
+🎓 Computer Science Graduate (First-Class Honours)  
+💻 Aspiring Software Developer  
+📍 United Kingdom  
 
 I'm passionate about building full-stack web applications and learning modern software development technologies. I enjoy turning ideas into practical applications and continuously improving my programming skills through personal projects.
 
@@ -11,7 +11,7 @@ I'm passionate about building full-stack web applications and learning modern so
 ## 🚀 About Me
 
 - 🎓 BSc Computer Science (First-Class Honours)
-- 🌱 Currently learning Laravel, Docker, and cloud deployment
+- 🌱 Love spending time outdoors and on the water
 - 💼 Looking for graduate/junior software developer opportunities
 - 💡 Interested in web development, backend systems, and software engineering
 
@@ -27,23 +27,26 @@ I'm passionate about building full-stack web applications and learning modern so
 - SQL
 - HTML
 - CSS
+- C/C++
 
 ### Frameworks & Libraries
 - Laravel
 - Livewire
 - Tailwind CSS
 - Bootstrap
+- React
 
 ### Databases
 - MySQL
 - SQLite
+- Firebase
+- Supabase
 
 ### Tools
 - Git
 - GitHub
 - Docker
 - VS Code
-- Linux
 
 ---
 
@@ -71,7 +74,7 @@ A full-stack social media web application built with Laravel.
 
 ---
 
-### 🌊 Advanced Tide Times
+### 🌊 SUP Safer - Weather and Water Conditions Assessment
 University dissertation project designed to help paddleboarders interpret tide and weather conditions.
 
 **Features**
@@ -93,7 +96,7 @@ University dissertation project designed to help paddleboarders interpret tide a
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/YOUR_LINK
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Tom-Bow
 
 ---
 
