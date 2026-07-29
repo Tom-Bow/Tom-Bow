@@ -10,40 +10,28 @@ I'm passionate about building full-stack web applications and learning modern so
 - 🎓 BSc Computer Science (First-Class Honours)
 - 🌱 Love spending time outdoors and on the water
 - 💼 Looking for graduate/junior software developer opportunities
-- 💡 Interested in web development, backend systems, and software engineering
+-  💡 Interested in web development, backend systems, and software engineering
 
 ---
 
 ## 🛠️ Technologies & Tools
+Below are a list of technologies and tools I have had utilised throughout projects.
 
 ### Languages
-- Python
-- Java
-- PHP
-- JavaScript
-- SQL
-- HTML
-- CSS
-- C/C++
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp,r)]()
 
 ### Frameworks & Libraries
-- Laravel
-- Livewire
-- Tailwind CSS
-- Bootstrap
-- React
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,latex,tailwind,react,fastapi)]()
 
 ### Databases
-- MySQL
-- SQLite
-- Firebase
-- Supabase
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase)]()
 
 ### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,docker)]()
 
 ---
 
@@ -82,18 +70,23 @@ University dissertation project designed to help paddleboarders interpret tide a
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tom-Bowde&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Bow&layout=compact)
 
----
+--- -->
 
-## 📫 Connect With Me
+<!-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thomas-b-039b1b129) ●
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Tom-Bow) -->
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- GitHub: https://github.com/Tom-Bow
+<h2 align="center">Connect With Me!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-b-039b1b129"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Tom-Bow"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
 
 ---
 
