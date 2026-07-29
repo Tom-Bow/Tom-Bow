@@ -89,5 +89,5 @@ University dissertation project designed to help paddleboarders interpret tide a
 </p>
 
 ---
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
 
-⭐ Thanks for visiting my profile!
