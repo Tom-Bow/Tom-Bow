@@ -1,8 +1,5 @@
 # Hi, I'm Thomas 👋
 
-🎓 Computer Science Graduate (First-Class Honours)  
-💻 Aspiring Software Developer  
-📍 United Kingdom  
 
 I'm passionate about building full-stack web applications and learning modern software development technologies. I enjoy turning ideas into practical applications and continuously improving my programming skills through personal projects.
 
